@@ -36,7 +36,7 @@ The focus is on writing efficient code with proper **Memory Management** (Heap v
 *This section is actively being updated as I progress through the Advanced Curriculum.*
 
 *   **Linear Data Structures:**
-    *   [ ] Singly Linked List (Operations & Memory Management)
+    *   [x] Singly Linked List (Insertion, Deletion, Reversal, & Search Logic)
     *   [ ] Doubly Linked List
     *   [ ] Stacks & Queues
 *   **Non-Linear Data Structures:**
