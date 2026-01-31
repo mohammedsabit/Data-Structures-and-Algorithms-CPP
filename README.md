@@ -37,7 +37,7 @@ The focus is on writing efficient code with proper **Memory Management** (Heap v
 
 *   **Linear Data Structures:**
     *   [x] Singly Linked List (Insertion, Deletion, Reversal, & Search Logic)
-    *   [ ] Doubly Linked List
+    *   [x] Doubly Linked List (Bi-directional Logic & Query Handling)
     *   [ ] Stacks & Queues
 *   **Non-Linear Data Structures:**
     *   [ ] Binary Trees & BST
